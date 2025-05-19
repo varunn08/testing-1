@@ -29,3 +29,12 @@
 // console.log(a);
 
 gi
+
+const x = {
+    name : "varun",
+    crush : "roshini",
+    age : 22,
+    mail : "sehgalvarun733@gmail.com"
+}
+
+console.log(x);
