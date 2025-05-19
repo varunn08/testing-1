@@ -9,7 +9,7 @@
 // console.log(time.toString());
 // console.log("hello guys i am back here !!");
 
-// const a = ["hello", 'roshni', "love" ,];
+// const a = ["hello", '', "" ,];
 
 
 // a.pop();
@@ -22,8 +22,10 @@
 // a.unshift("fuck");
 // console.log(a);
 
-const x = ["rosh", "rb", "varun",["bhola", "roshni", "monu" ,["roshni bhola"]]];
+// const x = ["rosh", "rb", "varun",["bhola", "roshni", "monu" ,["roshni bhola"]]];
 
-// const a = x.length;
-const a = x.flat(2);
-console.log(a);
+// // const a = x.length;
+// const a = x.flat(2);
+// console.log(a);
+
+gi
